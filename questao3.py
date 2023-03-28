@@ -1,10 +1,10 @@
-print('=========Questão 4=========')                                        #QUESTÃO 4
-numb1=int(input('Digite um valor: '))                                       #QUESTÃO 4
-numb2=int(input('Digite outro valor: '))                                    #QUESTÃO 4
-if numb1 != numb2:                                                          #QUESTÃO 4
-    if numb1 > numb2:                                                       #QUESTÃO 4
-        print('A ordem crescente para os dois valores é ', numb2,'e',numb1) #QUESTÃO 4
-    else:                                                                   #QUESTÃO 4
-        print('A ordem crescente para os dois valores é ', numb1,'e',numb2) #QUESTÃO 4
-else:                                                                       #QUESTÃO 4
-    print('Reinicie o programa e digite numeros diferentes.')               #QUESTÃO 4
+print('=========Questão 3=========')                                    #QUESTÃO 3
+num1=int(input('Digite um valor: '))                                    #QUESTÃO 3
+num2=int(input('Digite outro valor: '))                                 #QUESTÃO 3
+if num1 != num2:                                                        #QUESTÃO 3
+    if num1 > num2:                                                     #QUESTÃO 3
+        print('O valor', num1,' é o maior.')                            #QUESTÃO 3
+    else:                                                               #QUESTÃO 3
+        print('O valor', num2,' é o maior.')                            #QUESTÃO 3
+else:                                                                   #QUESTÃO 3
+    print('Reinicie o programa e digite numeros diferentes.')           #QUESTÃO 3
